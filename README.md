@@ -8,7 +8,6 @@
 * Neighborhood demographics 
 * Schools 
 ## Model Selection:
-<br>  
 Several machine learning models can be used for house price prediction:
 * Linear Regression: A simple and interpretable model that assumes a linear relationship between features and price.
 * Multiple Regression: An extension of linear regression that handles multiple features.
